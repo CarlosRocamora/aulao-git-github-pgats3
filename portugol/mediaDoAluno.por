@@ -84,7 +84,5 @@ programa {
 
     // 6. Mostrar o nome do aluno e a média
     escreva(nomeDoAlunoEMedia)
-
-    //teste
   }
 }
